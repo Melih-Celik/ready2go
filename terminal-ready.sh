@@ -5,4 +5,3 @@ unzip -o zsh_settings.zip -d $HOME
 source ~/.zshrc
 exec zsh
 chsh -s /bin/zsh
-typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
