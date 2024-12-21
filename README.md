@@ -1,2 +1,4 @@
 # terminal-ready
-This repo is for setting a new Ubuntu terminal to my preferences. Zsh etc.
+git clone https://github.com/Melih-Celik/terminal-ready.git
+chmod +x terminal-ready/terminal-ready.sh
+terminal-ready/terminal-ready.sh
